@@ -15,3 +15,16 @@ Esse projeto trabalha com uma base de dados MongoDB e
 Exemplo:
 
 MONGODB_URI: mongodb://mongouser:mongopwd@localhost:27017/admin
+
+-----------------------------------------
+
+# TESTES
+
+<p>Para rodar este ambiente execute na pasta raiz</p>
+
+<p>docker-compose up -d --remove-orphans --build</p>
+
+<p>Para desmontar o ambiente execute</p>
+
+<p>docker-compose down</p>
+
